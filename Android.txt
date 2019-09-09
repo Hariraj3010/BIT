@@ -1,0 +1,3 @@
+title=SmartBITLock
+author=Ashwin
+orientation=landscape
